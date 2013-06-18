@@ -1,0 +1,3 @@
+newHash = {}
+
+newHash[:name] = "Youssif"
